@@ -1,7 +1,6 @@
 #!/bin/bash
-#
-#
-#
+
+
 # Log file
 LOG_FILE="/var/log/server_monitor.log"
 
